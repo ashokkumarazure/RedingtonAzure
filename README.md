@@ -6,3 +6,8 @@ Disk encryption : https://docs.microsoft.com/en-us/learn/modules/secure-your-azu
 Caching and performance : https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/
 
 2. Introduction to Azure Storage -- https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/
+
+
+DevOps labs:
+https://www.azuredevopslabs.com/
+
